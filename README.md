@@ -1,6 +1,7 @@
 ### 
 👋 Hi, I'm Garret Katayama 
-<br/>
+
+
 
 Lets Connect: 
 <div id="badges">
