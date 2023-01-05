@@ -8,7 +8,7 @@ Lets Connect:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<br/>
   
 Languages and Tools:  
 <div>
@@ -37,7 +37,7 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 </div>
-  
+<br/>
   
 My Stats: 
   
