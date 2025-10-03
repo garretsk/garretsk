@@ -3,6 +3,8 @@
 
 💼 **Current Role:** AI Development Engineer @ Cerium
 
+**Academic:** PSU College of Engineering and Computer Science | Pacific University ‘22
+
 🌐 **Website:** https://garretsk.github.io/
 
 **Lets Connect:** 
