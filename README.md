@@ -1,9 +1,9 @@
 ### 
 👋 Hi, I'm Garret Katayama 
 
-*Current Role:* AI Development Engineer @ Cerium
+**Current Role:** AI Development Engineer @ Cerium
 
-*Website:* https://garretsk.github.io/
+**Website:** https://garretsk.github.io/
 
 Lets Connect: 
 <div id="badges">
