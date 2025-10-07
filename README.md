@@ -1,17 +1,7 @@
 ### 
 👋 Hi, I'm Garret Katayama 
-
-🌐 **Website:** https://garretsk.github.io/
-
-**Lets Connect:** 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/garret-katayama/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<br/>
   
-**Languages and Tools:**  
+## Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -73,11 +63,21 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 
 ---
 
-**My Stats:** 
+## My Stats:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garretsk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garretsk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+🌐 **Website:** https://garretsk.github.io/
+
+**Lets Connect:** 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/garret-katayama/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<br/>
 
 <!--
 **garretsk/garretsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
