@@ -16,6 +16,7 @@
 <br/>
   
 **Languages and Tools:**  
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
@@ -41,7 +42,41 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 </div>
 <br/>
-  
+
+---
+
+## 📜 Experience
+
+**Cerium Networks** — *AI Development Engineer*  
+Aug 2025 – Present  
+- Software development focusing on AI integrations
+- Connecting enterprise data sources to generate AI insights
+- Built out CI/CD pipelines to deploy AI-powered applications onto our existing on-prem Kubernetes cluster
+- Sole developer of a Data and AI centric marketing site aimed at promoting services for clients
+
+**Cerium Networks** — *DevOps/AI Developer Apprentice*  
+Jan 2025 – Aug 2025  
+- Early career role in the Data & AI team  
+
+---
+
+## 🎓 Education
+
+**Portland State University** — *Graduate School*  
+*2023 - 2024*  
+*GPA:* 4.0  
+
+Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/ML and cloud technologies. Left to gain real-world software development experience through a full-time role in industry.
+
+**Pacific University** — *Class of 2022, Bachelor of Science*  
+*2018 - 2022*  
+*Major:* Computer Science  
+*Minor:* Mathematics  
+
+*Awards:* Founder’s Scholarship (highest academic merit scholarship offered), ITA Scholar Athlete, Dean’s List
+
+---
+
 **My Stats:** 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garretsk&theme=dark&background=000000)](https://git.io/streak-stats)
