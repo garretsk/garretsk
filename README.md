@@ -63,7 +63,7 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 
 ---
 
-## My Stats:
+## My Stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garretsk&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -71,7 +71,7 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 
 ---
 
-## Lets Connect:
+## Lets Connect
 
 🌐 **Website:** https://garretsk.github.io/
 
