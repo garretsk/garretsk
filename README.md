@@ -71,7 +71,7 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 
 ---
 
-## Lets Connect
+### Lets Connect:
 
 🌐 **Website:** https://garretsk.github.io/
 
