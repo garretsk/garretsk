@@ -69,6 +69,19 @@ Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garretsk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+## Lets Connect
+
+🌐 **Website:** https://garretsk.github.io/
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/garret-katayama/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<br/>
+
 <!--
 **garretsk/garretsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
