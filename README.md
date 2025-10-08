@@ -81,5 +81,5 @@ Treasure Valley Math and Science Center
 
 ## Let's Connect
 
-  🌐 [Website](https://github.com/garretsk)  
+  🌐 [Website](https://garretsk.github.io/)  
   💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/)  
