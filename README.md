@@ -79,17 +79,7 @@ Treasure Valley Math and Science Center
 
 ---
 
-## Lets Connect
+## Let's Connect
 
-🌐 **Website:** https://garretsk.github.io/
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/garret-katayama/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<br/>
-
-<!--
-**garretsk/garretsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  🌐 [Website](https://github.com/garretsk)  
+  💼 [LinkedIn](https://www.linkedin.com/in/garret-katayama/)  
