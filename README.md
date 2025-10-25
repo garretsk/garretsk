@@ -42,19 +42,17 @@ Jan 2025 – Aug 2025
 **Portland State University** — *Graduate School*  
 *2023 - 2024*  
 *GPA:* 4.0  
+*Languages:* Python, SQL  
 
 Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/ML and cloud technologies. Left to gain real-world software development experience through a full-time role in industry.  
-
-*Languages:* Python, SQL  
 
 **Pacific University** — *Class of 2022, Bachelor of Science*  
 *2018 - 2022*  
 *Major:* Computer Science  
 *Minor:* Mathematics  
+*Languages:* C, C++  
 
 *Awards:* Founder’s Scholarship (highest academic merit scholarship offered), ITA Scholar Athlete, Dean’s List  
-
-*Languages:* C, C++  
 
 **Boise High School**  
 
