@@ -1,5 +1,5 @@
 ### 
-👋 Hi, I'm Garret Katayama 
+👋 Hi, I'm Garret Katayama  
   
 ## 🔧 Languages and Tools
 
@@ -26,10 +26,10 @@
 
 **Cerium Networks** — *AI Development Engineer*  
 Aug 2025 – Present  
-- Software development focusing on AI integrations
-- Connecting enterprise data sources to generate AI insights
-- Built out CI/CD pipelines to deploy AI-powered applications onto our existing on-prem Kubernetes cluster
-- Sole developer of a Data and AI centric marketing site aimed at promoting services for clients
+- Software development focusing on AI integrations  
+- Connecting enterprise data sources to generate AI insights  
+- Built out CI/CD pipelines to deploy AI-powered applications onto our existing on-prem Kubernetes cluster  
+- Sole developer of a Data and AI centric marketing site aimed at promoting services for clients  
 
 **Cerium Networks** — *DevOps/AI Developer Apprentice*  
 Jan 2025 – Aug 2025  
@@ -65,7 +65,7 @@ Treasure Valley Math and Science Center
 ---
 
 ## 📊 My Stats
-  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garretsk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garretsk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
