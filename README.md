@@ -60,7 +60,7 @@ National Merit Scholar: Finalist (top 0.5% of high school seniors nationwide)
 
 Advanced Placement (AP): Computer Science, Physics, World History, Chemistry, Statistics, Environmental Science, Calculus, Biology  
 
-Treasure Valley Math and Science Center
+Treasure Valley Math and Science Center  
 
 ---
 
