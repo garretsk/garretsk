@@ -25,14 +25,14 @@
 ## 📜 Experience
 
 **Cerium Networks** — *AI Development Engineer*  
-Aug 2025 – Present  
+*Aug 2025 – Present*  
 - Software development focusing on AI integrations  
 - Most work is in Python with Azure SDKs and deployed to a mix of Azure cloud and on-prem infrastructure  
 - A significant part of the role involves building CI/CD pipelines  
 - We use Azure DevOps for source control and agile collaboration  
 
 **Cerium Networks** — *DevOps/AI Developer Apprentice*  
-Jan 2025 – Aug 2025  
+*Jan 2025 – Aug 2025*  
 - Early career role in the Data & AI team  
 
 ---
@@ -44,7 +44,7 @@ Jan 2025 – Aug 2025
 *GPA:* 4.0  
 *Languages:* Python, SQL  
 
-Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/ML and cloud technologies. Left to gain real-world software development experience through a full-time role in industry.  
+Computer science graduate student. Maintained a 4.0 GPA. Learned a lot about AI/ML and cloud technologies. Left to gain real-world software engineering experience through a role in industry.  
 
 **Pacific University** — *Class of 2022, Bachelor of Science*  
 *2018 - 2022*  
